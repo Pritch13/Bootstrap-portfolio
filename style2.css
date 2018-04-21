@@ -1,0 +1,75 @@
+body {
+    background: url('http://abu2.com/wp-content/uploads/2015/01/varanasi.jpg');
+    margin-bottom: 100px;
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 5;
+}
+
+
+footer {
+    padding: 20px;
+    background: #eeee;
+    color: black;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.jumbotron {
+    text-align: center;
+    padding-top: 4%;
+    padding-bottom: 3%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+}
+
+#imageSection h1{
+    padding-bottom: 5%;
+    text-align: center;
+}
+
+#imageSection {
+    margin-bottom: 6%;
+}
+
+
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 5%;
+    margin-bottom: 20px;
+
+}
+
+.span {
+    margin-top: 2%;
+}
+
+.first {
+    margin-top: 130px;
+    margin-bottom: 50px;
+}
+
+.row {
+    color: rgba(7, 7, 7, 0.56);
+}
+
+.container {
+    background: rgba(245, 244, 244, 0.48);
+    border-radius: 30px;
+    padding-bottom: 20px;
+}
+
+.form-actions {
+    margin: 0;
+    background-color: transparent;
+    text-align: center;
+}
