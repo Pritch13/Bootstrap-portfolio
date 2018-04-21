@@ -1,3 +1,15 @@
+
+
+  h1 {
+    word-wrap: break-word;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    -o-hyphens: auto;
+    hyphens: auto;
+}
+
+
 body {
     background: url('http://abu2.com/wp-content/uploads/2015/01/varanasi.jpg');
     margin-bottom: 100px;
@@ -16,7 +28,7 @@ body {
 
 footer {
     padding: 20px;
-    background: #eeee;
+    background: #eee;
     color: black;
     text-align: center;
     position: fixed;
